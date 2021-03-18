@@ -1,0 +1,8 @@
+GDAL==3.1.4
+pandas==1.2.1
+geopandas==0.8.2
+tqdm==4.56.0
+numpy==1.20.0
+requests==2.25.1
+beautifulsoup4==4.9.3
+osgeo==0.0.0
