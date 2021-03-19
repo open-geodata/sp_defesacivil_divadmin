@@ -1,8 +1,10 @@
-numpy==1.20.0
-geopandas==0.8.2
 requests==2.25.1
-tqdm==4.56.0
-GDAL==3.1.4
 pandas==1.2.1
+GDAL==3.1.4
+tqdm==4.56.0
+geopandas==0.8.2
+pdf2jpg==1.0
+numpy==1.20.0
 beautifulsoup4==4.9.3
 osgeo==0.0.0
+PyPDF2==1.26.0
