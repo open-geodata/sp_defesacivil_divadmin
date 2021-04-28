@@ -6,6 +6,7 @@
 
 ![Defesa Civil](https://github.com/michelmetran/sp_defesacivil/blob/main/data/rasters/geo_defesacivil.jpg?raw=true)
 
+
+
 ### *To Do*
 * Outros dados que poderão ser explorados no futuro estão em: https://s2id.mi.gov.br/paginas/series/
-dddddjjjjj
