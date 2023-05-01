@@ -4,7 +4,7 @@
 
 _Script_ que atualiza a divisão administrativa das Coordenadorias Regionais de Proteção e Defesa Civil - REPDEC da Defesa Civil do Estado de São Paulo, gerando uma tabela em _csv_ com a indicação dos 645 munícipios paulistas a partir dos mapas obtidos no [_site_ da instituição](http://www.defesacivil.sp.gov.br/coordenadores-regionais-de-defesa-civil/).
 
-> **Data de Atualização**: ???
+> **Data de Atualização**: 01.05.2023
 
 <br>
 
