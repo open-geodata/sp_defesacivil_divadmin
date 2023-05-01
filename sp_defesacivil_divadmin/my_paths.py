@@ -34,6 +34,9 @@ output_path_tabs.mkdir(exist_ok=True)
 output_path_maps = output_path / 'maps'
 output_path_maps.mkdir(exist_ok=True)
 
+output_path_geo = output_path / 'geo'
+output_path_geo.mkdir(exist_ok=True)
+
 if __name__ == '__main__':
     print(project_path)
     print(module_path)
