@@ -1,3 +1,10 @@
+#
+
+# IDEs
+.vs/
+.vscode/
+.idea/
+
 update_github.ipynb
 update_github2.ipynb
 
