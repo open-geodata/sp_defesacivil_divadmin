@@ -14,7 +14,7 @@ for line in open('requirements.txt', encoding='utf-8'):
     if not li.startswith('#'):
         requirements.append(line.rstrip())
 
-VERSION = (0, 0, 2)
+VERSION = (0, 0, 3)
 __version__ = '.'.join(map(str, VERSION))
 
 setup(
@@ -46,7 +46,7 @@ setup(
     include_package_data=True,
     package_data={
         '': [
-            #'data/output/geo/*.7z',
+            'data/output/geo/*.7z',
             'data/output/tabs/*.csv',
         ]
     },
