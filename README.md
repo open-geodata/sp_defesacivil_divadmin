@@ -1,10 +1,12 @@
 # Defesa Civil do Estado de São Paulo
 
+[![Repo](https://img.shields.io/badge/GitHub-repo-blue?logo=github&logoColor=f5f5f5)](https://github.com/open-geodata/sp_defesacivil_divadmin)
+
 <img align="right" src="./docs/imgs/logo_defesacivil.png?raw=true" width="120" height="100%" />
 
 _Script_ que atualiza a divisão administrativa das Coordenadorias Regionais de Proteção e Defesa Civil - REPDEC da Defesa Civil do Estado de São Paulo, gerando uma tabela em _csv_ com a indicação dos 645 munícipios paulistas a partir dos mapas obtidos no [_site_ da instituição](http://www.defesacivil.sp.gov.br/coordenadores-regionais-de-defesa-civil/).
 
-> **Data de Atualização**: 01.05.2023
+> **Data de Atualização**: 14.06.2025
 
 <br>
 
